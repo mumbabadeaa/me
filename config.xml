@@ -16,7 +16,7 @@
   <passkey value=""/>       <!-- 32 hexadecimal characters if provided -->
 
   <power value="full"/>
-  <gpu value="true"/>      <!-- If true, attempt to autoconfigure GPUs -->
+  <gpu value="false"/>      <!-- If true, attempt to autoconfigure GPUs -->
  
 
   <!-- Folding Slots
