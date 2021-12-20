@@ -13,7 +13,7 @@
   <!-- User Information -->
   <user value="39gbg2b573fi"/> <!-- Enter your user name here -->
   <team value="234980"/>         <!-- Your team number -->
-  <passkey value=""/>       <!-- 32 hexadecimal characters if provided -->
+  <passkey value="36f1b162979e577436f1b162979e5774"/>       <!-- 32 hexadecimal characters if provided -->
 
   <power value="full"/>
   <gpu value="true"/>      <!-- If true, attempt to autoconfigure GPUs -->
