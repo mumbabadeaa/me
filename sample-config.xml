@@ -10,11 +10,12 @@
     in quotes below.
   -->
 
-  <!-- User Information -->
-  <user value="39gbg2b573fi"/> <!-- Enter your user name here -->
+ <!-- User Information -->
+  <user value="ilaaum6nugda"/> <!-- Enter your user name here -->
   <team value="234980"/>         <!-- Your team number -->
-  <passkey value="36f1b162979e577436f1b162979e5774"/>       <!-- 32 hexadecimal characters if provided -->
-
+  <passkey value="3d4a7283ea7de5973d4a7283ea7de597"/>       <!-- 32 hexadecimal characters if provided -->
+  
+  
   <power value="full"/>
   <gpu value="true"/>      <!-- If true, attempt to autoconfigure GPUs -->
  
